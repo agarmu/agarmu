@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Mukul's github stats](https://github-readme-stats.vercel.app/api?username=agarmu)](https://github.com/anuraghazra/github-readme-stats)
+[![Mukul's github stats](https://github-readme-stats.vercel.app/api?username=agarmu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **agarmu/agarmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
